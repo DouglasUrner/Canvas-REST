@@ -21,7 +21,6 @@ end
 source('private/ENV')
 
 @base = 'https://canvas.instructure.com/api'
-path = '/v1/courses/1692944/sections'
 course_id = '1692944'
 
 def headers
